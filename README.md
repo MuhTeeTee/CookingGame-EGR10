@@ -8,6 +8,7 @@ the joy and chaos of the kitchen in this unique VR game!
 ##############################################################################################
 
 Scope of the Project
+
 This project is the final project for an EGR 10 engineering class, created by a team of four engineering students. 
 The game is not intended to be overly complicated. Instead, it focuses on trying something totally different and 
 applying engineering concepts and principles learned throughout the engineering course.
@@ -15,6 +16,7 @@ applying engineering concepts and principles learned throughout the engineering 
 ##############################################################################################
 
 Contributors
+
 Matias: Co-developer, VR Programming, Project Management
 Toey: Co-developer, VR Programming, Documentation
 Kian: Asset Management, Quality Assurance, Project Management
@@ -24,6 +26,7 @@ Issac: 3D Asset Creation, Quality Assurance, Project Management
 ##############################################################################################
 
 The Future
+
 As of now, there are no plans to continue the development of "Cooking Disaster - EGR 10" after the completion of the 
 EGR 10 course. However, the project has provided the team with valuable experiences in developing a VR game and 
 applying engineering principles in a novel context. We hope that everyone had fun trying something new and creating 
