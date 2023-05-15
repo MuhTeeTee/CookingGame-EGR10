@@ -21,9 +21,9 @@ Matias: Co-developer, VR Programming, Project Management
 
 Toey: Co-developer, VR Programming, Documentation
 
-Kian: Asset Management, Quality Assurance, Project Management
+Kian: Asset Management, Quality Assurance, Game Testing
 
-Issac: 3D Asset Creation, Quality Assurance, Project Management
+Issac: 3D Asset Creation, Quality Assurance, Game Testing
 
 ##############################################################################################
 
