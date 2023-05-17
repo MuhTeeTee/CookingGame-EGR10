@@ -18,10 +18,12 @@ applying engineering concepts and principles learned throughout the engineering 
 Contributors
 
 Matias: Co-developer, VR Programming, Project Management
+
 Toey: Co-developer, VR Programming, Documentation
-Kian: Asset Management, Quality Assurance, Project Management
-Issac: 3D Asset Creation, Quality Assurance, Project Management
-(Add brief descriptions of each contributor's specific roles and contributions here)
+
+Kian: Asset Management, Quality Assurance, Game Testing
+
+Issac: 3D Asset Creation, Quality Assurance, Game Testing
 
 ##############################################################################################
 
