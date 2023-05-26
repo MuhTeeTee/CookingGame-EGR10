@@ -1,9 +1,9 @@
 Cooking Disaster - EGR 10
 
-"Cooking Disaster - EGR 10" is an innovative virtual reality (VR) cooking game. The project merges the culinary 
-arts with digital technology in a playful and engaging way. The game provides a simplified cooking experience with 
-step-by-step instructions, aiming to demystify the art of cooking while offering a fun culinary adventure. Embrace 
-the joy and chaos of the kitchen in this unique VR game!
+"Magical PB and J Adventure - EGR 10" is an innovative virtual reality (VR) cooking game. Embark on a delightful culinary 
+adventure in the PB and J Sandwich Scavenger Hunt game. Step into the virtual reality world where you'll follow 
+a series of clues, solve puzzles, and explore interactive environments to gather the ingredients needed for the 
+perfect PB and J sandwich.
 
 ##############################################################################################
 
@@ -29,7 +29,7 @@ Issac: 3D Asset Creation, Quality Assurance, Game Testing
 
 The Future
 
-As of now, there are no plans to continue the development of "Cooking Disaster - EGR 10" after the completion of the 
+As of now, there are no plans to continue the development of "Magical PB and J Adventure - EGR 10" after the completion of the 
 EGR 10 course. However, the project has provided the team with valuable experiences in developing a VR game and 
 applying engineering principles in a novel context. We hope that everyone had fun trying something new and creating 
 something they never thought they could.
